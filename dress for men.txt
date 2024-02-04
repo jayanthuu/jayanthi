@@ -1,0 +1,160 @@
+<!DOCTYPEhtml>
+<html>
+    <head>
+        <title>DRESS PLACE</title>
+        <link rel="stylesheet" type="text/css" href="dress">
+<script>
+function windowopen(){
+window.open("file:///C:/Users/DELL/Documents/form.html");
+}
+
+</script>
+    </head>
+
+    <body>
+        <h1>DRESS PLACE</h1>
+        <nav>
+            <ul>
+               <a href="#"><li>dress for men</li></a>
+            
+        </ul>
+    </nav>
+
+    <section class="items">
+        <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt1.jpeg">
+            <h4>Rs.400</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt2.jpeg">
+            <h4>Rs.300</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt3.jpeg">
+            <h4>Rs.1000</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt4.jpeg">
+            <h4>Rs.600</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt5.jpeg">
+            <h4>Rs.1500</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt6.jpeg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\shirt7.jpeg">
+            <h4>Rs.800</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t1.jpeg">
+            <h4>Rs.400</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t2.jpeg">
+            <h4>Rs.300</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t3.jpeg">
+            <h4>Rs.1000</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t4.jpeg">
+            <h4>Rs.600</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t5.jpeg">
+            <h4>Rs.1500</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t6.jpeg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\t7.jpeg">
+            <h4>Rs.800</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+<div class="item">
+            <img src="C:\Users\DELL\Pictures\t8.jpeg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+<div class="item">
+            <img src="C:\Users\DELL\Pictures\t9.jpg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+<div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty4.jpg">
+            <h4>Rs.400</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty5.jpg">
+            <h4>Rs.300</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty6.jpg">
+            <h4>Rs.1000</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty7.webp">
+            <h4>Rs.600</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty8.webp">
+            <h4>Rs.1500</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty9.jpg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+
+ <div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty1.webp">
+            <h4>Rs.800</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+<div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty2.jpg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+<div class="item">
+            <img src="C:\Users\DELL\Pictures\vesty3.jpg">
+            <h4>Rs.550</h4>
+            <button onclick="windowopen()">Order</button>
+        </div>
+ 
+            
+ 
+            
+        
+</section>
+    
+</body>
+</html>
