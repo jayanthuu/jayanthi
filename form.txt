@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body style="background-color:yellow">
+ 
+<h3 style="text-align:center; color:red;">fill all details</h3>
+<form style="text-align:center">
+<label>Name:</label><input type="text" placeholder="enter a name"><br><br><br>
+<label>email:</label><input type="password" placeholder="enter a email id"><br><br><br>
+<label>password:</label><input type="password" placeholder="enter a password"><br><br><br>
+<label>gender:male</label><input type="radio" name="gender" value="male"><label>female:</label><input type="radio" name="gender" value="female"><br>
+<br><br>
+<h2>enter the address<h2>
+<label>district:</label><input type="text" placeholder="enter a district"><br><br><br>
+<label>village:</label><input type="text" placeholder="enter a village"><br><br><br>
+<label>street:</label><input type="text" placeholder="enter a street"><br><br><br>
+<label>door no:</label><input type="text" placeholder="enter a doorno"><br><br><br>
+<label>delivery date:</label><input type="text" placeholder="enter a delivery date"><br><br><br>
+
+</form>
+<a href="final final final.html">submit</a>
+</body>
+</html>
